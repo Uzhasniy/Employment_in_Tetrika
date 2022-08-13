@@ -7,7 +7,7 @@ def task(array):
     pass
 
 print(task("111111111110000000000000000"))
-# >> OUT: 11
+>> OUT: 11
 …
 
 Задача №2.
